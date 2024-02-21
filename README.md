@@ -18,7 +18,9 @@ If you wish to run this script yourself, all you need to do is clone the repo, a
 
 To install Python, simply visit [this website](https://www.python.org/downloads/) and download the relevant installer for your version. Then you should be able to run. Ensure you tick "add python.exe to PATH" like below, as this allows you to run it from the command line. ![Screenshot of the python installer](image.png)
 
-Once python is installed, you can check it's done correctly by opening the command line on your OS (`cmd` for Windows, likely `bash` for Mac and Linux) and typing `python --version`. If installed correctly this should give you the python version you just installed. ![Screenshot of the terminal showing python v3.9.2 installed](image-1.png) Now simply clone this repository somewhere on your PC.
+Once python is installed, you can check it's done correctly by opening the command line on your OS (`cmd` for Windows, likely `bash` for Mac and Linux) and typing `python --version`. If installed correctly this should give you the python version you just installed. ![Screenshot of the terminal showing python v3.9.2 installed](image-1.png)
+
+Now simply clone this repository somewhere on your PC via Github. This can be done by downloading the code, or via command line however you choose.
 
 ## Usage
 

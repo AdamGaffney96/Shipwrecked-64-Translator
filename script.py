@@ -14,7 +14,7 @@ def decode(string: str) -> str:
 
 def main(message: str) -> None:
     decoded_message = decode(message)
-    print(f"The input message was '{message}'. The encoded/decoded message is '{decoded_message}'")
+    print(f"The input message was '{message}'. The encoded/decoded message is '{decoded_message}.'")
     
 if __name__ == "__main__":
     print("===========================================")
